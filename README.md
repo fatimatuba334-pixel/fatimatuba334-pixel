@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**fatimatuba334-pixel/fatimatuba334-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tuba Fathima! 👋
 
-Here are some ideas to get you started:
+🎓 Second-year B.Tech Computer Science Engineering student at Amity University, Greater Noida.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm currently learning Python and Web Development.
+
+### 👩‍💻 About Me
+- 🌱 Learning Python and Web Development.
+- 🔭 Interested in building practical projects.
+- 🧠 Exploring Artificial Intelligence and Data Analytics.
+- 🎯 Working towards becoming a skilled developer.
+- 📍 Based in India.
+
+### 🛠️ Technical Skills
+- **Languages:** C, Python (Basic)
+- **Libraries:** OpenCV (academic project experience)
+- **Currently Learning:** HTML, CSS, JavaScript
+
+### 🚀 Projects
+- **Face Recognition Attendance System:** Individually developed using Python and OpenCV.
+
+### 🎓 Education
+- B.Tech in Computer Science & Engineering
+- Amity University, Greater Noida
+- Expected Graduation: 2029
+- CGPA: 7.37/10
+
+### 🤝 Connect With Me
+- Email: fatimatuba334@gmail.com
+
+---
+⭐ *Learning, building and growing one project at a time!*
