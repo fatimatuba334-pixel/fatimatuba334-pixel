@@ -1,33 +1,35 @@
 
-# Hi there, I'm Tuba Fathima! 👋
+# Hi, I'm Tuba Fathima! 👋
 
-🎓 Second-year B.Tech Computer Science Engineering student at Amity University, Greater Noida.
+🎓 B.Tech Computer Science & Engineering Student  
+🏛️ Amity University, Uttar Pradesh – Greater Noida Campus  
+📅 Expected Graduation: 2029
 
-💻 I'm currently learning Python and Web Development.
+## 👩‍💻 About Me
+- Currently pursuing my second year of B.Tech CSE.
+- Learning Python and Web Development.
+- Interested in building practical technology projects.
+- Exploring AI, Machine Learning and Data Analytics.
+- Always curious to learn new technologies.
 
-### 👩‍💻 About Me
-- 🌱 Learning Python and Web Development.
-- 🔭 Interested in building practical projects.
-- 🧠 Exploring Artificial Intelligence and Data Analytics.
-- 🎯 Working towards becoming a skilled developer.
-- 📍 Based in India.
-
-### 🛠️ Technical Skills
-- **Languages:** C, Python (Basic)
+## 🛠️ Technical Skills
+- **Programming Languages:** C, Python (Basic)
 - **Libraries:** OpenCV (academic project experience)
-- **Currently Learning:** HTML, CSS, JavaScript
+- **Currently Learning:** HTML, CSS and JavaScript
 
-### 🚀 Projects
-- **Face Recognition Attendance System:** Individually developed using Python and OpenCV.
+## 🚀 Projects
+### Face Recognition Attendance System
+- Individually developed using Python and OpenCV.
+- Explores automated attendance using facial recognition.
 
-### 🎓 Education
-- B.Tech in Computer Science & Engineering
-- Amity University, Greater Noida
-- Expected Graduation: 2029
+## 🎓 Education
+- B.Tech in Computer Science & Engineering (Core)
+- Amity University, Uttar Pradesh – Greater Noida Campus
 - CGPA: 7.37/10
+- Expected Graduation: 2029
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 - Email: fatimatuba334@gmail.com
 
 ---
-⭐ *Learning, building and growing one project at a time!*
+⭐ Learning, building and growing one project at a time!
